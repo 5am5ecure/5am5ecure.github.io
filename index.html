@@ -3,6 +3,15 @@ layout: default
 title: 5am5ecure
 ---
 <div class="blurb">
-	<h1>Main Page</h1>
-	<p>Just some text</p>
+	<h1>Security Blog</h1>
+	<p></p>
+	
+	<ul class="posts">
+
+	  {% for post in site.posts %}
+	    <li><span>{{ post.date | date_to_string }}</span> - <a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></li>
+	  {% endfor %}
+		
+	</ul>
+	
 </div><!-- /.blurb -->
