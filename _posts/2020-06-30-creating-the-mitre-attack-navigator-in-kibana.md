@@ -9,3 +9,5 @@ The MITRE ATT&CK Navigator is such a good attack technique tool that I wondered 
 <img src="{{site.url}}/img/MITRE_Nav_Kibana.jpg" alt="MITRE ATT&CK Navigator in Kibana" width="1000" height="500">
 
 Write-up pending...
+
+<b>Introduction</b>
