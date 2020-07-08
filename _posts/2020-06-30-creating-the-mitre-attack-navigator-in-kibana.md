@@ -10,6 +10,8 @@ date: 2020-06-30
 <b>Contents</b>
 <li><a href="#Introduction">1. Introduction</a></li>
 
+border-top: 1px solid #d5d5d5;
+
 <b id="#Introduction">Introduction</b>
 
 <p>The <a href="https://mitre-attack.github.io/attack-navigator/enterprise/"> MITRE ATT&CK Navigator</a> is a web tool, created by MITRE, used to visualise the different stages of a cyber attack.</p>
