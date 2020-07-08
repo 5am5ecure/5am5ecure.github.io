@@ -10,7 +10,8 @@ date: 2020-06-30
 <b>Contents</b>
 <li><a href="#Introduction">1. Introduction</a></li>
 
-border-top: 1px solid #d5d5d5;
+<ul>
+</ul>
 
 <b id="#Introduction">Introduction</b>
 
