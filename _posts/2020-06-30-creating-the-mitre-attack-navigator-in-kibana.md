@@ -6,10 +6,9 @@ date: 2020-06-30
 
 <img src="{{site.url}}/img/MITRE_Nav_Kibana.jpg" alt="MITRE ATT&CK Navigator in Kibana" width="1000" height="500">
 
-<div>
-     <b>Contents</b>
-     <li><a href="#Introduction">1. Introduction</a></li>
-</div>
+
+<b>Contents</b>
+<li><a href="#Introduction">1. Introduction</a></li>
 
 <b id="#Introduction">Introduction</b>
 
