@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Creating the MITRE ATT&CK Navigator in Kibana"
+title: "COMING SOON - MITRE ATT&CK Navigator in Kibana"
 date: 2020-06-30
 ---
 
