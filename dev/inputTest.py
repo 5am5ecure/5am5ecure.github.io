@@ -1,7 +1,5 @@
 import cgi
 
-print("Testing")
-
 form = cgi.FieldStorage()
 
 first_input=form.getvalue('fInput')
