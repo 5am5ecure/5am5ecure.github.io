@@ -9,6 +9,7 @@ date: 2021-09-12
 <ul>
 </ul>
 
-<b>Detection Report Summary</b>
+<h1>Detection Report Summary</h1>
 
-<p>This years <a href="https://redcanary.com/">Red Canary</a> threat report featured a wealth of interesting malicious TTPs, mapped to the well known <a href="https://attack.mitre.org/">MITRE ATT&CK</a> framework.</p>
+<p>This years <a href="https://redcanary.com/">Red Canary</a> threat report featured a wealth of malicious TTPs, mapped to the <a href="https://attack.mitre.org/">MITRE ATT&CK</a> framework, and I decided to use them to level up my <a href="https://docs.microsoft.com/en-us/sysinternals/downloads/sysmon"> policy.</p>
+
