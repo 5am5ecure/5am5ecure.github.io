@@ -15,6 +15,8 @@ date: 2021-09-12
 
 <p>Seperate Sysmon detection categories were created for each 'Top Techniques' item listed within the report.</p>
 
+<br>
+
 <h1>Technique T1059: Command and Scripting Interpreter</h1>
 
 <b>Technique T1059.001: PowerShell</b>
