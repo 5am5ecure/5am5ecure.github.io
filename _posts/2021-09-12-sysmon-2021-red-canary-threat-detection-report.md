@@ -25,15 +25,13 @@ date: 2021-09-12
 
 <p><i>Content Pending...</i></p>
 
-
-
+<br>
 
 <h1>Technique T1059: Command and Scripting Interpreter</h1>
 
 <p><i>Content Pending...</i></p>
 
-
-
+<br>
 
 <h1>Technique T1218: Signed Binary Process Execution</h1>
 
