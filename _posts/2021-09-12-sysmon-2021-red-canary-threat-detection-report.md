@@ -43,11 +43,15 @@ date: 2021-09-12
 
 <p><i>Content Pending...</i></p>
 
+<br>
+
 <h1>Technique T1543: Create and Modify System Process</h1>
 
 <b>Technique T1543.003: Windows Service</b>
 
 <p><i>Content Pending...</i></p>
+
+<br>
 
 <h1>Technique T1053: Scheduled Task/Job</h1>
 
@@ -55,32 +59,46 @@ date: 2021-09-12
 
 <p><i>Content Pending...</i></p>
 
+<br>
+
 <h1>Technique T1003: OS Credential Dumping</h1>
 
 <b>Technique T1003.001: LSASS Memory</b>
 
 <p><i>Content Pending...</i></p>
 
+<br>
+
 <h1>Technique T1055: Process Injection</h1>
 
 <p><i>Content Pending...</i></p>
+
+<br>
 
 <h1>Technique T1027: Obfuscated Files or Information</h1>
 
 <p><i>Content Pending...</i></p>
 
+<br>
+
 <h1>Technique T1105: Ingress Tool Transfer</h1>
 
 <p><i>Content Pending...</i></p>
+
+<br>
 
 <h1>Technique T1569: System Services</h1>
 
 <b>Technique T1569.002: Service Execution</b>
 
 <p><i>Content Pending...</i></p>
+
+<br>
     
 <h1>Technique T1036 Masquerading</h1>
 
 <b>Technique T1036.003: Rename System Utilities</b>
 
 <p><i>Content Pending...</i></p>
+
+<br>
