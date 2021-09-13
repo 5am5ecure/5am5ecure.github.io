@@ -15,7 +15,7 @@ date: 2021-09-12
 
 <p>Seperate Sysmon detection categories were created for each 'Top Techniques' item listed within the report.</p>
 
-<h2>Technique T1059: Command and Scripting Interpreter</h2>
+<h1>Technique T1059: Command and Scripting Interpreter</h1>
 
 <b>Technique T1059.001: PowerShell</b>
 
@@ -25,11 +25,11 @@ date: 2021-09-12
 
 <p><i>Content Pending...</i></p>
 
-<h2>Technique T1059: Command and Scripting Interpreter</h2>
+<h1>Technique T1059: Command and Scripting Interpreter</h1>
 
 <p><i>Content Pending...</i></p>
 
-<h2>Technique T1218: Signed Binary Process Execution</h2>
+<h1>Technique T1218: Signed Binary Process Execution</h1>
 
 <b>Technique T1218.011: Rundll32</b>
 
