@@ -11,7 +11,7 @@ date: 2021-09-12
 
 <h1>Detection Report Summary</h1>
 
-<p>The 2021 <a href="https://redcanary.com/">Red Canary</a> threat report featured a wealth of malicious TTPs, mapped to the <a href="https://attack.mitre.org/">MITRE ATT&CK</a> framework, and I decided to use them to level up my <a href="https://docs.microsoft.com/en-us/sysinternals/downloads/sysmon"> Sysmon </a> policy.</p>
+<p>The 2021 <a href="https://redcanary.com/">Red Canary</a> threat report featured a wealth of malicious TTPs, mapped to the <a href="https://attack.mitre.org/">MITRE ATT&CK</a> framework, and I decided to use them to level up my <a href="https://docs.microsoft.com/en-us/sysinternals/downloads/sysmon">Sysmon</a> policy.</p>
 
 <p>Seperate Sysmon detection categories were created for each 'Top Techniques' item listed within the report.</p>
 
@@ -80,42 +80,3 @@ date: 2021-09-12
 <b>Technique T1036.003: Rename System Utilities</b>
 
 <p><i>Content Pending...</i></p>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
