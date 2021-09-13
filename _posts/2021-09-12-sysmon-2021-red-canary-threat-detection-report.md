@@ -25,13 +25,13 @@ date: 2021-09-12
 
 <p><i>Content Pending...</i></p>
 
-<br>
+<br></br>
 
 <h1>Technique T1059: Command and Scripting Interpreter</h1>
 
 <p><i>Content Pending...</i></p>
 
-<br>
+<br></br>
 
 <h1>Technique T1218: Signed Binary Process Execution</h1>
 
@@ -43,7 +43,7 @@ date: 2021-09-12
 
 <p><i>Content Pending...</i></p>
 
-<br>
+<br></br>
 
 <h1>Technique T1543: Create and Modify System Process</h1>
 
@@ -51,7 +51,7 @@ date: 2021-09-12
 
 <p><i>Content Pending...</i></p>
 
-<br>
+<br></br>
 
 <h1>Technique T1053: Scheduled Task/Job</h1>
 
@@ -59,7 +59,7 @@ date: 2021-09-12
 
 <p><i>Content Pending...</i></p>
 
-<br>
+<br></br>
 
 <h1>Technique T1003: OS Credential Dumping</h1>
 
@@ -67,25 +67,25 @@ date: 2021-09-12
 
 <p><i>Content Pending...</i></p>
 
-<br>
+<br></br>
 
 <h1>Technique T1055: Process Injection</h1>
 
 <p><i>Content Pending...</i></p>
 
-<br>
+<br></br>
 
 <h1>Technique T1027: Obfuscated Files or Information</h1>
 
 <p><i>Content Pending...</i></p>
 
-<br>
+<br></br>
 
 <h1>Technique T1105: Ingress Tool Transfer</h1>
 
 <p><i>Content Pending...</i></p>
 
-<br>
+<br></br>
 
 <h1>Technique T1569: System Services</h1>
 
@@ -93,7 +93,7 @@ date: 2021-09-12
 
 <p><i>Content Pending...</i></p>
 
-<br>
+<br></br>
     
 <h1>Technique T1036 Masquerading</h1>
 
@@ -101,4 +101,4 @@ date: 2021-09-12
 
 <p><i>Content Pending...</i></p>
 
-<br>
+<br></br>
