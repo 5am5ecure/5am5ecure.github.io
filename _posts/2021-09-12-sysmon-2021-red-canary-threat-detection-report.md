@@ -19,8 +19,78 @@ date: 2021-09-12
 
 <b>Technique T1059.001: PowerShell</b>
 
-<p><i>This text is italic</i></p>
+<p><i>Content Pending...</i></p>
   
 <b>Technique T1059.001: PowerShell</b>
 
-<p><i>This text is italic</i></p>
+<p><i>Content Pending...</i></p>
+
+
+
+<h1>Technique T1059: Command and Scripting Interpreter</h1>
+  <p><i>Content Pending...</i></p>
+<h1>T1218 Signed Binary Process Execution</h1>
+  <b>T1218.011 Rundll32</b>
+    <p><i>Content Pending...</i></p>
+  <b>T1218.005 Mshta</b>
+    <p><i>Content Pending...</i></p>
+<h1>T1543 Create and Modify System Process</h1>
+  <b>T1543.003 Windows Service</b>
+    <p><i>Content Pending...</i></p>
+<h1>T1053 Scheduled Task/Job</h1>
+  <b>T1053.005 Scheduled Task</b>
+    <p><i>Content Pending...</i></p>
+<h1>T1003 OS Credential Dumping</h1>
+  <b>T1003.001 LSASS Memory</b>
+    <p><i>Content Pending...</i></p>
+<h1>T1055 Process Injection</h1>
+  <p><i>Content Pending...</i></p>
+<h1>T1027 Obfuscated Files or Information</h1>
+  <p><i>Content Pending...</i></p>
+<h1>T1105 Ingress Tool Transfer</h1>
+  <p><i>Content Pending...</i></p>
+<h1>T1569 System Services</h1>
+  <b>T1569.002 Service Execution</b>
+    <p><i>Content Pending...</i></p>
+<h1>T1036 Masquerading</h1>
+  <b>T1036.003 Rename System Utilities</b>
+    <p><i>Content Pending...</i></p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
