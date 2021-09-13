@@ -20,6 +20,8 @@ date: 2021-09-12
 <b>Technique T1059.001: PowerShell</b>
 
 <p><i>Content Pending...</i></p>
+
+<code>Pending Code Snippet</code>
   
 <b>Technique T1059.001: PowerShell</b>
 
